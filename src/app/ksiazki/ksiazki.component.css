@@ -1,0 +1,7 @@
+.faq {
+	counter-reset: my-badass-counter;
+}
+.faq dt:before {
+	content: counter(my-badass-counter);
+	counter-increment: my-badass-counter;
+}
