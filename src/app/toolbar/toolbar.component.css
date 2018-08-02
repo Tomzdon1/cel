@@ -1,0 +1,16 @@
+.color-toolbar {
+  background: linear-gradient(180deg, #3466ae 41%, #5390f1 100%);
+  color: wheat !important;
+}
+.col-mar{
+  margin-bottom: 45px;
+}
+.text-dark {
+  color: #4b87d4 !important;
+  font-weight: 600;
+  font-size: 1.1em;
+  transition: color 0.15s ease-in;
+}
+.text-etapy {
+  color: #4b87d4 !important;
+}
